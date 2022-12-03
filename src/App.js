@@ -26,6 +26,10 @@ function App() {
         <h2>Difficulties</h2>
         At first, I did not realize that React apps were created using commands instead of simply creating a new file. I had to look at React tutorials to find out
         how to create an app.
+        <br></br><br></br>
+        My second difficulty was uploading the code to Github to make a page. After trying multiple YouTube videos and StackOverflow pages, I finally found a video that
+        allowed me to deploy the app to Github Pages. To do this, I ran <code>git init</code>, <code>git add .</code> and used Github code to connect the app to my repository.
+        Afterwards, I modified the package.json file and ran a deploy command which published the site.
         
       </p></div>
     </div>
